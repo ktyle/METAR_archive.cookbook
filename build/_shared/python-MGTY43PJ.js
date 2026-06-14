@@ -1,1 +1,1 @@
-import{a}from"/cookbook-template/build/_shared/chunk-EDILERRB.js";import"/cookbook-template/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/METAR_archive.cookbook/build/_shared/chunk-EDILERRB.js";import"/METAR_archive.cookbook/build/_shared/chunk-OZE3FFNP.js";export default a();
